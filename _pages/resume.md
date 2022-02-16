@@ -64,6 +64,9 @@ redirect_from:
 * ***GHC20 Student Scholarship***
   * **Grace Hopper Celebration 2020 [September 2020 – October 2020]**
   * Student scholar to attend GHC20 in Orlando by AnitaB.org.
+
+> "Created in 1994 and inspired by the legacy of Admiral Grace Murray Hopper, the AnitaB.org flagship event Grace Hopper Celebration brings the research and career interests of women in computing to the forefront." --- [AnitaB.org](https://ghc.anitab.org/about/)
+
 * ***Multi-intellectual Scholarship***
   * **King Mongkut's University of Technology Thonburi [August 2019 - July 2021]**
   * Fully funded for master's degree.
