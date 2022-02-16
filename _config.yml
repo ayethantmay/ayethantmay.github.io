@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Aye Thant May"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Aye Thant May"
+description              : &description "Data Science Enthusiast"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Aye Thant May"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Data Science Enthusiast"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
