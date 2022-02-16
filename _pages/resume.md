@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<u>Employment History</u>
+<u>Experience</u>
 ======
+
 * ***Strategic Development Director and Core Member***
   * **One of the social data science start-ups in SEA [September 2021 - Present]**
   * Leading the data science team and planning the sustainable developmental strategies including the revenue generation, internal team building, external relationships with other organizations.
@@ -31,6 +32,7 @@ redirect_from:
 
 <u>Volunteering</u>
 ======
+
 * ***Senior Researcher***
   * **One of the non-profit organizations in SEA [October 2021 – Present]**
   * Leading the data analytics research that helps to overcome the different barriers of online teaching and learning during the pandemic crisis.
@@ -39,13 +41,17 @@ redirect_from:
 
 <u>Education</u>
 ======
-* Master of Science in Computer Engineering [King Mongkut’s University of Technology Thonburi, August 2019 – May 2022]
-* Bachelor of Computer Science [University of Information Technology (UIT),December 2013 – December 2018]
+
+* ***Master of Science in Computer Engineering*** 
+  * **King Mongkut’s University of Technology Thonburi [August 2019 – May 2022]**
+* ***Bachelor of Computer Science*** 
+  * **University of Information Technology (UIT) [December 2013 – December 2018]**
 
 
 
 <u>Publications</u>
 ======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -54,6 +60,7 @@ redirect_from:
 
 <u>Awards & Achievements</u>
 ======
+
 * ***GHC20 Student Scholarship***
   * **Grace Hopper Celebration 2020 [September 2020 – October 2020]**
   * Student scholar to attend GHC20 in Orlando by AnitaB.org.
@@ -68,6 +75,7 @@ redirect_from:
 
 <u>Community Involvement</u>
 ======
+
 * ***Myanmar Delegate***
   * **ASEAN Youth in Action (AYIA) [March 2018 - April 2018]**
   * Solved the socioeconomic problems of Philippines and Singapore by applying Design Thinking framework.

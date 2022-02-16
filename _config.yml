@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aye Thant May"
 title_separator          : "-"
 name                     : &name "Aye Thant May"
-description              : &description "Data Science Enthusiast"
+description              : &description "Data Science Enthusiast| Born and raised in Yangon| She/ Her"
 url                      : https://ayethantmay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ayethantmay/ayethantmay.github.io"
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Aye Thant May"
-  avatar           : "profile.png"
-  bio              : "Data Science Enthusiast"
-  location         : "Location"
+  avatar           : "profile.jpeg"
+  bio              : "Data Science Enthusiast | Born and raised in Yangon | She/ Her"
+  location         : "Bangkok, Thailand"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ayethantmay"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "ayethantmay"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
