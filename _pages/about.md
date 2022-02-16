@@ -37,4 +37,4 @@ Apart from those stuffs, I'm exploring the blooming `web3` data science technolo
 For more info
 =======
 
-Please read my [resume](https://ayethantmay.github.io/resume/) or you can contact me via [LinkedIn](https://www.linkedin.com/in/ayethantmay/).
+Please read my [resume](https://ayethantmay.github.io/resume/) or you can contact me via [LinkedIn](https://www.linkedin.com/in/ayethantmay/). If you are interested what kind of tech articles I have published, visit my [publications](https://ayethantmay.github.io/publications/) and [blog](https://ayethantmay.github.io/year-archive/) posts for more information.
