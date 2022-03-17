@@ -12,9 +12,10 @@ redirect_from:
 <u>Experience</u>
 ======
 
-* ***Strategic Development Director and Core Member***
-  * **One of the social data science start-ups in SEA [September 2021 - Present]**
-  * Leading the data science team and planning the sustainable developmental strategies including the revenue generation, internal team building, external relationships with other organizations.
+* ***Strategic Development Officer and Core Member***
+  * **One of the social data science non-profit in SEA [September 2021 - Present]**
+  * Leading the data science team by conducting qualitative and quantitative appraoches on socio-economic data, sharing the learning materials to the juniors. 
+  * Planning the sustainable team strategies including the revenue generation, internal team building, external relationships with other organizations.
 
 * ***Teaching Assistant***
   * **Department of Computer Engineering, King Mongkut’s University of Technology Thonburi [August 2021 – Present]**

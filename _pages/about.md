@@ -24,14 +24,13 @@ What I am
 1. Technical article writer 
 1. Team founder
 1. Strategic Planner
-1. Fund-raiser for a start-up
 
 
 What I do recently
 ======
-While committing the small social data science start-up team with my friends (which is my part-time), I am hunting the full-time data scientist position in the industry. If you find one suitable space, please ping me for the information. I would not forget you for a coffee treat! 
+I am hunting the full-time data scientist position in the industry. If you find one suitable space, please ping me for the information. I would not forget you for a coffee treat! 
 
-Apart from those stuffs, I'm exploring the blooming `web3` data science technologies and blockchain data structures. I invite you if you would like to try walking together with me on uncharted `web3` data science path.
+Apart from job hunting, I'm exploring the blooming `web3` data science technologies and blockchain data structures. I invite you if you would like to try walking together with me on uncharted `web3` data science path.
 
 
 For more info
